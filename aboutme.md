@@ -4,7 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-Laureato in ingegneria elettrotecnica da 50 anni, ho sempre avuto come obiettivo dei suoi lavori la completezza e la precisione. Come molti neolaureati in cerca di lavoro ho dapprima insegnato poi ho lavorato in varie aziende, tutte metalmeccaniche nel settore dell’impiantistica, della manutenzione, del controllo e dell’assicurazione qualità. Negli ultimi anni, prima della pensione, ho gestito un laboratorio prove strutturali di rotabili ferroviari. Nel contempo, per inclinazione personale, mi sono dedicato al settore degli incendi (in particolare nel campo delle indagini sugli incendi), iscrivendomi come esperto al tribunale di S.M.C. Vetere; in questo particolare campo, in cui ho iniziato nel 1980, ho svolto molteplici lavori, per incarico sia del Tribunale già citato che di privati ed aziende. Come hobby personali ho coltivato il modellismo e l’elettronica in generale con una predilezione per l’Hi-Fi : iniziando da studente con la riparazione di radio e apparati da discoteca, e terminando con la gestione degli amplificatori di segnale per trasduttori estensimetrici.
+Laureato in ingegneria elettrotecnica da 50 anni, ho sempre avuto come obiettivo dei suoi lavori la completezza e la precisione.
+Come molti neolaureati in cerca di lavoro ho dapprima insegnato poi ho lavorato in varie aziende, tutte metalmeccaniche nel settore dell’impiantistica, della manutenzione, del controllo e dell’assicurazione qualità.
+Negli ultimi anni, prima della pensione, ho gestito un laboratorio prove strutturali di rotabili ferroviari.
+Nel contempo, per inclinazione personale, mi sono dedicato al settore degli incendi (in particolare nel campo delle indagini sugli incendi), iscrivendomi come esperto al tribunale di S.M.C. Vetere; in questo particolare campo, in cui ho iniziato nel 1980, ho svolto molteplici lavori, per incarico sia del Tribunale già citato che di privati ed aziende.
+Come hobby personali ho coltivato il modellismo e l’elettronica in generale con una predilezione per l’Hi-Fi : iniziando da studente con la riparazione di radio e apparati da discoteca, e terminando con la gestione degli amplificatori di segnale per trasduttori estensimetrici.
 
 ### Curriculum
 
