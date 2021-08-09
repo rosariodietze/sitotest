@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ing. Rosario Dietze
-subtitle: Benvenuto nel mio sito
+subtitle: Benvenuti nel mio sito
 ---
 
 Il mio primo sito sull’argomento del “Fire Investigation” è nato nel 2009 e per diversi anni ha funzionato piuttosto bene raccogliendo sia consensi e sia maldestri tentativi di parziale riproduzione.
