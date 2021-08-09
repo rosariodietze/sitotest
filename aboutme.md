@@ -28,4 +28,4 @@ Come hobby personali ho coltivato il modellismo e l’elettronica in generale co
 - Dal 2004 al 2010 membro del “Comitato Tecnico” della società “Wind Tunnel Kanal” (Galleria del vento) di Vienna.
 - Attualmente in pensione: Collaboratore di enti (C.I.F.) ed associazioni (CESAF) per corsi di formazione nei campi della sicurezza, qualità e risparmio energetico.
 
-Potete contattarmi potete contattarmi tramite mail all'indirizzo: dietze48 [at] gmail [dot] com
+Potete contattarmi tramite mail all'indirizzo: dietze48 [at] gmail [dot] com
