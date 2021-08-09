@@ -15,10 +15,10 @@ author: Rosario Dietze
 
 navbar-links:
   Home: "/"
-  My Articles:
+  I miei articoli:
     - Blog: "blog"
-    - Categories: "tags"
-  About Me: "aboutme"
+    - Argomenti: "tags"
+  Chi sono: "aboutme"
   Resources:
     - Il mio libro: "test"
     - Learn markdown: "https://www.markdownguide.org/basic-syntax/"

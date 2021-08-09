@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Chi sono
 ---
 
 Laureato in ingegneria elettrotecnica da 50 anni, ho sempre avuto come obiettivo dei suoi lavori la completezza e la precisione.
@@ -27,4 +26,6 @@ Come hobby personali ho coltivato il modellismo e l’elettronica in generale co
 - Già responsabile del “Servizio collaudi ed assistenza rotabili” e quindi del “Servizio assicurazione qualità” della FIORE Spa.
 - Quality Engineer della FIREMA TRASPORTI Spa e, nella stessa azienda, docente di corsi interni di formazione per operai ed impiegati. Nella stessa azienda ha gestito il “Servizio metrologia” ed il “Laboratorio prove statiche delle strutture”.
 - Dal 2004 al 2010 membro del “Comitato Tecnico” della società “Wind Tunnel Kanal” (Galleria del vento) di Vienna.
-- Attualmente in pensione : Collaboratore di enti (C.I.F.) ed associazioni (CESAF) per corsi di formazione nei campi della sicurezza, qualità e risparmio energetico.
+- Attualmente in pensione: Collaboratore di enti (C.I.F.) ed associazioni (CESAF) per corsi di formazione nei campi della sicurezza, qualità e risparmio energetico.
+
+Potete contattarmi potete contattarmi tramite mail all'indirizzo: dietze48 [at] gmail [dot] com
