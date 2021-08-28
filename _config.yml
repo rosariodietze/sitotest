@@ -16,11 +16,8 @@ author: Rosario Dietze
 navbar-links:
   Home: "/"
   Articoli:
+    - Argomenti: "tags"
     - Blog: "blog"
-    - Argomenti: "tags"
-  Blog:
-    - Articoli: "blog"
-    - Argomenti: "tags"
   Il mio libro: "libro"
   Chi sono: "aboutme"
   Resources:
