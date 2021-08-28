@@ -18,6 +18,9 @@ navbar-links:
   Articoli:
     - Blog: "blog"
     - Argomenti: "tags"
+  Blog:
+    - Articoli: "blog"
+    - Argomenti: "tags"
   Il mio libro: "libro"
   Chi sono: "aboutme"
   Resources:
