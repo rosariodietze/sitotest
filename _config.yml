@@ -15,12 +15,13 @@ author: Rosario Dietze
 
 navbar-links:
   Home: "/"
-  I miei articoli:
+  Articoli:
     - Blog: "blog"
     - Argomenti: "tags"
+  Il mio libro: "libro"
   Chi sono: "aboutme"
   Resources:
-    - Il mio libro: "test"
+    - Memos: "test"
     - Learn markdown: "https://www.markdownguide.org/basic-syntax/"
     - Editor markdown: "https://dillinger.io/"
 
