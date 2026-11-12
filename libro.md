@@ -31,9 +31,9 @@ Grazie al suo approccio chiaro, completo e ricco di esempi concreti, rappresenta
 
 ## INDICE DEL LIBRO
 
-### PREMESSA
+### Premessa
 
-### PARTE TEORICA
+### Parte Teorica
 - La combustione e le sue forme
 - Gli incendi: origini, sviluppo e spegnimento
 - Gli incendi: tipologie particolari
@@ -41,7 +41,7 @@ Grazie al suo approccio chiaro, completo e ricco di esempi concreti, rappresenta
 - Le esplosioni: tipologie particolari
 - Le indagini: gli aspetti legali e la legislazione
 
-### PARTE PRATICA
+### Parte Pratica
 - Le indagini: la semiotica
 - Le indagini: i metodi operativi
 - Le consulenze: l’incarico e i verbali
