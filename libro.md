@@ -14,7 +14,7 @@ In conclusione spero che questo mio lavoro possa essere utile a coloro che lavor
 
 ## REPERIMENTODEL LIBRO
 
-Il mio libro può essere reperito sul [sito ufficiale della casa editrice EPC](https://www.epc.it/Prodotto/Editoria/Libri/Anatomia-di-un-incendio/5642){: .btn .btn-link}
+Il mio libro può essere reperito sul [sito ufficiale della casa editrice EPC](https://www.epc.it/Prodotto/Editoria/Libri/Anatomia-di-un-incendio/5642)
 
 
 ## PRESENTAZIONE DEL LIBRO
